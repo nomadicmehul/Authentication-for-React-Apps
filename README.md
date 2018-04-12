@@ -17,3 +17,17 @@ A real world React App
 * ReactJS App (create-react-app default)
 * Email/Password Authentication
 * Social Auth
+
+### Goals : 
+
+* Promote and Educate people about authentication & authorization. 
+* Learn about the different concepts that make up modern identity
+* *Organizers* are accountable to clarify queries on the day of event. 
+
+### Prerequisite 
+
+* Open-Minded 
+
+Feel free to ping me anytime on [Telegram](http://telegram.me/rowdymehul) or [Twitter](http://twitter.com/rowdymehul) and I’m happy to chat with you.
+
+For any queries raise a [issue](https://github.com/rowdymehul/Authentication-for-React-Apps/issues) and please feel free to submit a PR anytime :)
