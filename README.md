@@ -20,8 +20,8 @@ A real world React App
 
 ### Goals : 
 
-* Promote and Educate people about authentication & authorization. 
-* Learn about the different concepts that make up modern identity
+* Promote and Educate people about react component and component APIs, JSX and much more. 
+* Learn about the different concepts that make up authentication to it. 
 * *Organizers* are accountable to clarify queries on the day of event. 
 
 ### Prerequisite 
