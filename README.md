@@ -1,6 +1,6 @@
 # Authentication-for-React-Apps
 
-In this talk we will cover a basic authentication application with Reactjs frontend + Laravel api.This application covers basic auth flows like login , register, reset password, forgot password . It also cover react fundamentals such as what is a react component and component APIs, JSX, props & state and bit about React Router. Once we are familiar with those basic concepts we will walkthrough a real world react app that calls a NodeJS API and add authentication to it. Outline of the talk is below
+In this talk we will cover a basic authentication application with Reactjs frontend + Laravel api. This application covers basic auth flows like login , register, reset password, forgot password . It also cover react fundamentals such as what is a react component and component APIs, JSX, props & state and bit about React Router. Once we are familiar with those basic concepts we will walkthrough a real world react app that calls a NodeJS API and add authentication to it. Outline of the talk is below
 
 React Primer
 
