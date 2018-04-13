@@ -12,6 +12,7 @@ React Primer
 
 A real world React App
 
+* Sample Auth pages using ReactJS and Laravel
 * Scenario is React App calling NodeJS API
 * Protected NodeJS API
 * ReactJS App (create-react-app default)
